@@ -1,5 +1,5 @@
-# Pre-work - Simple_Todo_App
 
+<<<<<<< HEAD
 
 Simple_Todo_App is an android app that allows building a todo list and basic todo items management functionality including adding new items, and deleting an existing item.
 
@@ -57,3 +57,5 @@ It is very hard to undrestand and connect the different views
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+>>>>>>> origin/master
