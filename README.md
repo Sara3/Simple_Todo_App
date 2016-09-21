@@ -30,7 +30,9 @@ The following **optional** features will be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/JfqvA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+<iframe class="imgur-embed-pub" lang="en" data-id="a/JfqvA"><a href="//imgur.com/JfqvA"></a></iframe><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
