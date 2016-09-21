@@ -40,7 +40,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is my first App. I have built 3 half apps before to prepare for this app. 
+It is very hard to undrestand and connect the different views 
 
 ## License
 
