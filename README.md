@@ -3,7 +3,7 @@
 
 Simple_Todo_App is an android app that allows building a todo list and basic todo items management functionality including adding new items, and deleting an existing item.
 
-Submitted by: Sara vDaqiq
+Submitted by: Sara Daqiq
 
 Time spent: 30 hours spent in total
 
@@ -32,16 +32,19 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<iframe class="imgur-embed-pub" lang="en" data-id="a/JfqvA"><a href="//imgur.com/JfqvA"></a></iframe><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is my first App. I have built 3 half apps before to prepare for this app. 
+It is very hard to undrestand and connect the different views 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Sabera Daqiq
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
